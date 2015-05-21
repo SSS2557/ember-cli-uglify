@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ember-cli/ember-cli-uglify.git"
+    "url": "https://github.com/SSS2557/ember-cli/ember-cli-uglify.git"
   },
   "engines": {
     "node": ">= 0.10.0"
@@ -23,6 +23,6 @@
     "before": "broccoli-asset-rev"
   },
   "dependencies": {
-    "broccoli-uglify-sourcemap": "^0.2.1"
+    "broccoli-uglify-sourcemap": "git://github.com/SSS2557/broccoli-uglify-sourcemap.git"
   }
 }
